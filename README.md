@@ -11,7 +11,7 @@
     #include <vector>
     #include <map>
 
-    class Sven 
+    class Sven {
     public:
     std::map<std::string, std::vector<std::string>> aboutme;
         aboutme["email"] = {"joschy0709@gmail.com"};

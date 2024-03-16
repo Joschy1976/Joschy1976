@@ -12,6 +12,8 @@ Joschy1976() {
 class Sven 
 public:
     std::map<std::string, std::vector<std::string>> aboutme;
+    }
+};
 
     Sven() {
         aboutme["email"] = {"joschy0709@gmail.com"};

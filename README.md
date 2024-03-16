@@ -26,7 +26,7 @@
 # ⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.
 
 # 🤔 Ich arbeite mit:
-    • JavaScript
+    • ![JavaScript](../Downloads/icons8-javascript.gif) JavaScript
     • HTML5
     • CSS
     • Bootstrap

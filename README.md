@@ -5,7 +5,7 @@
  Ich bin ein Full-Stack-Entwickler
 
 
-    Sven() {
+    
     #include <iostream>
     #include <string>
     #include <vector>

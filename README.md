@@ -27,17 +27,17 @@
 
 # 🤔 Ich arbeite mit:
    
-    • [Javascript icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/javascript)
-    • [React icons created by Dreamstale – Flaticon](https://www.flaticon.com/free-icons/react)
-    • [Nodejs icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/nodejs)
-    • [Html 5 icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/html-5)
-    • [Css 3 icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/css-3)
-    • [Bootstrap icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/bootstrap)
-    • [C sharp icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/c-sharp)
-    • [Python icons created by Freepik – Flaticon](https://www.flaticon.com/free-icons/python)
-    • [Github icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/github)
-    • [Postgresql icons created by LAFS - Flaticon](https://www.flaticon.com/free-icons/postgresql)
-    • [Mongodb icons created by LAFS - Flaticon](https://www.flaticon.com/free-icons/postgresql)
+    • ![Javascript icons](https://www.flaticon.com/free-icon/javascript_919847?term=javascript&page=1&position=5&page=1&position=5&related_id=919847&origin=search) JavaScript
+    • ![React icons](https://www.flaticon.com/free-icon/react_1050587?term=react&page=1&position=3&page=1&position=3&related_id=1050587&origin=search) React
+    • ![Nodejs icons](https://www.flaticon.com/free-icon/nodejs_919831?term=nodejs&page=1&position=1&page=1&position=1&related_id=919831&origin=search) Node.js
+    • ![Html 5 icons](https://www.flaticon.com/free-icon/html-5_919841?term=html%205&page=1&position=2&page=1&position=2&related_id=919841&origin=search) HTML 5
+    • ![Css 3 icons](https://www.flaticon.com/free-icon/css_919826?term=css&page=1&position=3&page=1&position=3&related_id=919826&origin=search) CSS
+    • ![Bootstrap icons](https://www.flaticon.com/free-icon/bootstrap_118926?term=bootstrap&page=1&position=1&page=1&position=1&related_id=118926&origin=search) Bootstrap
+    • ![C sharp icons](https://www.flaticon.com/free-icon/csharp_919841?term=c%23&page=1&position=2&page=1&position=2&related_id=919841&origin=search) C#
+    • ![Python icons](https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&page=1&position=1&related_id=919852&origin=search) Python
+    • ![Github icons](https://www.flaticon.com/free-icon/github_919847?term=github&page=1&position=1&page=1&position=1&related_id=919847&origin=search) GitHub
+    • ![Postgresql icons](https://www.flaticon.com/free-icon/postgresql_919837?term=postgresql&page=1&position=2&page=1&position=2&related_id=919837&origin=search) PostgreSQL
+    • ![Mongodb icons](https://www.flaticon.com/free-icon/mongodb_919836?term=mongodb&page=1&position=3&page=1&position=3&related_id=919836&origin=search) MongoDB
 
 
 

@@ -11,7 +11,7 @@
     #include <vector>
     #include <map>
 
-    class Sven {
+    class Joschy1976 {
     public:
     std::map<std::string, std::vector<std::string>> aboutme;
     Sven() {

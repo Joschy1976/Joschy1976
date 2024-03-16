@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**Joschy1976/Joschy1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hallo, ich bin Sven! 
 
-Here are some ideas to get you started:
+ Ich bin ein Full-Stack-Entwickler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+
+class Sven {
+public:
+    std::map<std::string, std::vector<std::string>> aboutme;
+
+    Sven() {
+        aboutme["email"] = {"joschy0709@gmail.com"};
+        aboutme["personal info"] = {"Sven", "Janorschke", "47", "Male"};
+        aboutme["portfolio"] = {"Coming Soon"};
+        aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
+    }
+};
+💬 Kontaktiere mich gerne
+⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.
+🤔 Ich arbeite mit:
+    • JavaScript
+    • HTML5
+    • CSS
+    • Bootstrap
+    • C#
+    • C++
+    • Python
+    • React
+    • Node.js
+    • GitHub
+    • MongoDB

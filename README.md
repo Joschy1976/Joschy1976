@@ -27,17 +27,17 @@
 
 # 🤔 Ich arbeite mit:
    
-    • [<img src="javascript_icon.png" alt="JavaScript" width="20" height="20">](https://www.flaticon.com/free-icons/javascript) JavaScript
-    • [<img src="react_icon.png" alt="React" width="20" height="20">](https://www.flaticon.com/free-icons/react) React
-    • [<img src="nodejs_icon.png" alt="Node.js" width="20" height="20">](https://www.flaticon.com/free-icons/nodejs) Node.js
-    • [<img src="html5_icon.png" alt="HTML 5" width="20" height="20">](https://www.flaticon.com/free-icons/html-5) HTML 5
-    • [<img src="css_icon.png" alt="CSS" width="20" height="20">](https://www.flaticon.com/free-icons/css-3) CSS
-    • [<img src="bootstrap_icon.png" alt="Bootstrap" width="20" height="20">](https://www.flaticon.com/free-icons/bootstrap) Bootstrap
-    • [<img src="csharp_icon.png" alt="C#" width="20" height="20">](https://www.flaticon.com/free-icons/c-sharp) C#
-    • [<img src="python_icon.png" alt="Python" width="20" height="20">](https://www.flaticon.com/free-icons/python) Python
-    • [<img src="github_icon.png" alt="GitHub" width="20" height="20">](https://www.flaticon.com/free-icons/github) GitHub
-    • [<img src="postgresql_icon.png" alt="PostgreSQL" width="20" height="20">](https://www.flaticon.com/free-icons/postgresql) PostgreSQL
-    • [<img src="mongodb_icon.png" alt="MongoDB" width="20" height="20">](https://www.flaticon.com/free-icons/mongodb) MongoDB
+    • ![JavaScript](https://www.flaticon.com/free-icon/javascript_919847?term=javascript&page=1&position=5&page=1&position=5&related_id=919847&origin=search) JavaScript
+    • ![React](https://www.flaticon.com/free-icon/react_1050587?term=react&page=1&position=3&page=1&position=3&related_id=1050587&origin=search) React
+    • ![Node.js](https://www.flaticon.com/free-icon/nodejs_919831?term=nodejs&page=1&position=1&page=1&position=1&related_id=919831&origin=search) Node.js
+    • ![HTML 5](https://www.flaticon.com/free-icon/html-5_919841?term=html%205&page=1&position=2&page=1&position=2&related_id=919841&origin=search) HTML 5
+    • ![CSS](https://www.flaticon.com/free-icon/css_919826?term=css&page=1&position=3&page=1&position=3&related_id=919826&origin=search) CSS
+    • ![Bootstrap](https://www.flaticon.com/free-icon/bootstrap_118926?term=bootstrap&page=1&position=1&page=1&position=1&related_id=118926&origin=search) Bootstrap
+    • ![C#](https://www.flaticon.com/free-icon/csharp_919841?term=c%23&page=1&position=2&page=1&position=2&related_id=919841&origin=search) C#
+    • ![Python](https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&page=1&position=1&related_id=919852&origin=search) Python
+    • ![GitHub](https://www.flaticon.com/free-icon/github_919847?term=github&page=1&position=1&page=1&position=1&related_id=919847&origin=search) GitHub
+    • ![PostgreSQL](https://www.flaticon.com/free-icon/postgresql_919837?term=postgresql&page=1&position=2&page=1&position=2&related_id=919837&origin=search) PostgreSQL
+    • ![MongoDB](https://www.flaticon.com/free-icon/mongodb_919836?term=mongodb&page=1&position=3&page=1&position=3&related_id=919836&origin=search) MongoDB
 
 
 

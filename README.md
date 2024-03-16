@@ -20,9 +20,11 @@ public:
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
     }
 };
-💬 Kontaktiere mich gerne
-⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.
-🤔 Ich arbeite mit:
+# 💬 Kontaktiere mich gerne
+
+# ⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.
+
+# 🤔 Ich arbeite mit:
     • JavaScript
     • HTML5
     • CSS

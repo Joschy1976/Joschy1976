@@ -36,4 +36,5 @@
     • React
     • Node.js
     • GitHub
+    • PostgreSQL
     • MongoDB

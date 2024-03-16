@@ -1,17 +1,9 @@
-### Hi there 👋
+### Hi there i am Joschy1976👋
 
 # Hallo, ich bin Sven! 
 
  Ich bin ein Full-Stack-Entwickler
-Joschy1976() {
-#include <iostream>
-#include <string>
-#include <vector>
-#include <map>
 
-class Sven 
-public:
-    std::map<std::string, std::vector<std::string>> aboutme;
 
     Sven() {
     #include <iostream>

@@ -12,10 +12,16 @@ Joschy1976() {
 class Sven 
 public:
     std::map<std::string, std::vector<std::string>> aboutme;
-    }
-};
 
     Sven() {
+    #include <iostream>
+    #include <string>
+    #include <vector>
+    #include <map>
+
+    class Sven 
+    public:
+    std::map<std::string, std::vector<std::string>> aboutme;
         aboutme["email"] = {"joschy0709@gmail.com"};
         aboutme["personal info"] = {"Sven", "Janorschke", "47", "Male"};
         aboutme["portfolio"] = {"Coming Soon"};

@@ -1,6 +1,6 @@
-### Hi there i am Joschy1976👋
+# Hallo, ich bin Joschy1976 (Sven)👋
 
-# Hallo, ich bin Sven! 
+
 
  Ich bin ein Full-Stack-Entwickler
 

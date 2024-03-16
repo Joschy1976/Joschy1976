@@ -27,7 +27,7 @@
 
 # 🤔 Ich arbeite mit:
    
-     • JavaScript
+    • JavaScript
     • HTML5
     • CSS
     • Bootstrap

@@ -17,7 +17,7 @@
     Sven() {
         aboutme["email"] = {"joschy0709@gmail.com"};
         aboutme["personal info"] = {"Sven", "Janorschke", "47", "Male"};
-        aboutme["portfolio"] = {"http://localhost:5173/3d-react-portfolio/Mein-Portfolio/"};
+        aboutme["portfolio"] = {"https://janorschkesven/3d-react-portfolio/Mein-Portfolio/"};
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
         }
     };

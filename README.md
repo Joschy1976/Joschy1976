@@ -21,10 +21,7 @@
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
         }
     };
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-
-[linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
 # 💬 Gerne könnt Ihr mich Kontaktieren .
 
 # ⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.

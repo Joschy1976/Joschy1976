@@ -55,8 +55,8 @@
     <!-- MongoDB -->
     <img src="icons8-mongodb-480.png" alt="MongoDB" width="64"/>
      <!-- NPM -->
-    <img src="icons8-npm.svg" alt="NPM" width="32"/>
+    <img src="icons8-npm.svg" alt="NPM" width="64"/>
     <!-- Angular -->
-    <img src="icons8-angularjs-48.png" alt="Angular" width="32"/>
+    <img src="icons8-angularjs-48.png" alt="Angular" width="64"/>
 </div>
 

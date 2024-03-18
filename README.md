@@ -21,7 +21,7 @@
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
         }
     };
-# 💬 Gerne könnt Ihr mich Kontaktieren . [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/

@@ -39,7 +39,7 @@
     <!-- C# -->
     <img src="cis.png" alt="C#" width="32"/>
     <!-- C++ -->
-    <img src="cis.png" alt="C++" width="32"/>
+    <img src="uberprufen.png" alt="C++" width="32"/>
     <!-- Java -->
     <img src="icons8-java-kaffeetassenlogo.svg" alt="Java" width="32"/>
     <!-- Python -->

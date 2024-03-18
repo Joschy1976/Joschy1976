@@ -54,5 +54,9 @@
     <img src="icons8-postgresql-480.png" alt="PostgreSQL" width="64"/>
     <!-- MongoDB -->
     <img src="icons8-mongodb-480.png" alt="MongoDB" width="64"/>
+     <!-- NPM -->
+    <img src="icons8-npm.svg" alt="NPM" width="32"/>
+    <!-- Angular -->
+    <img src="icons8-angularjs-48.png" alt="Angular" width="32"/>
 </div>
 

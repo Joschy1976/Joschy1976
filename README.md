@@ -49,7 +49,7 @@
     <!-- Node.js -->
     <img src="icons8-nodejs.svg" alt="Node.js" width="64"/>
     <!-- GitHub -->
-    <img src="github.png" alt="GitHub" width="64"/>
+    <img src="weiß-Github.ico" alt="GitHub" width="64"/>
     <!-- PostgreSQL -->
     <img src="icons8-postgresql-480.png" alt="PostgreSQL" width="64"/>
     <!-- MongoDB -->

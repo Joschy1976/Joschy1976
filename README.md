@@ -25,7 +25,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
-
+# 💬 Gerne könnt Ihr mich Kontaktieren .
 
 # ⚡ Fun Fact: Wenn ein Programmierer sagt, dass etwas 'gerade funktioniert', bedeutet das    	 	           normalerweise, dass es tatsächlich funktioniert, aber niemand weiß warum.
 

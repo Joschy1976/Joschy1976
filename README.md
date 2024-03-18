@@ -27,8 +27,11 @@
 
 # 🤔 Ich arbeite mit:
    
-    <img src="html5.svg" alt="HTML 5" width="32"/>
-    <img src="icons8-javascript.gif" alt="JavaScript" width="32"/>
+    <!-- HTML 5 -->
+<img src="html5.svg" alt="HTML 5" width="32"/>
+
+<!-- JavaScript -->
+<img src="icons8-javascript.gif" alt="JavaScript" width="32"/>
     • CSS
     • Bootstrap
     • C#

@@ -41,13 +41,13 @@
     <!-- C++ -->
     <img src="cis.png" alt="C++" width="32"/>
     <!-- Java -->
-    <img src="cis.png" alt="Java" width="32"/>
+    <img src="icons8-java-kaffeetassenlogo.svg" alt="Java" width="32"/>
     <!-- Python -->
     <img src="icons8-python.gif" alt="Python" width="32"/>
     <!-- React -->
     <img src="icons8-react-native-480.png" alt="React" width="32"/>
     <!-- Node.js -->
-    <img src="nodejs.png" alt="Node.js" width="32"/>
+    <img src="icons8-nodejs.svg" alt="Node.js" width="32"/>
     <!-- GitHub -->
     <img src="github.png" alt="GitHub" width="32"/>
     <!-- PostgreSQL -->

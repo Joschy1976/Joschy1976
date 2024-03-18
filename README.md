@@ -30,10 +30,10 @@
 <div style="display: inline-block;">
     <!-- HTML 5 -->
     <img src="html5.svg" alt="HTML 5" width="64"/>
-    <!-- JavaScript -->
-    <img src="icons8-javascript.gif" alt="JavaScript" width="64"/>
     <!-- CSS -->
     <img src="css.png" alt="CSS" width="64"/>
+    <!-- JavaScript -->
+    <img src="icons8-javascript.gif" alt="JavaScript" width="64"/>
     <!-- Bootstrap -->
     <img src="icons8-bootstrap-512.png" alt="Bootstrap" width="64"/>
     <!-- C# -->

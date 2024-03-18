@@ -27,7 +27,7 @@
 
 # 🤔 Ich arbeite mit:
    
-    [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://dein-link-hier)
+    [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)](https://dein-link-hier)
     • HTML 5
     • CSS
     • Bootstrap

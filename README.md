@@ -28,7 +28,7 @@
 # 🤔 Ich arbeite mit:
    
     • Javascript
-    ![HTML 5](./html5.svg)
+    ![HTML 5](/html5.svg)
     • CSS
     • Bootstrap
     • C#

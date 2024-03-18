@@ -66,6 +66,6 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
+# LinkedIn [linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
 
 

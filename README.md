@@ -27,7 +27,7 @@
 
 # 🤔 Ich arbeite mit:
    
-    ![JavaScript](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/javascript.svg)
+    • Javascript
     • HTML 5
     • CSS
     • Bootstrap

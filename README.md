@@ -27,7 +27,7 @@
 
 # 🤔 Ich arbeite mit:
    
-    ![JavaScript](icon.png){width=32px}
+    ![JavaScript](icons8-javascript.gif){width=32px}
     • HTML 5
     • CSS
     • Bootstrap

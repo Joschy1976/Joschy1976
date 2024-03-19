@@ -61,6 +61,8 @@
     <img src="icons8-angularjs-48.png" alt="Angular" width="64"/>
     <!-- Express.js -->
     <img src="1686391647921.png" alt="Express.js" width="100"/>
+    <!-- Python -->
+    <img src="Google-Cloud.png" alt="Google-Cloud" width="64"/>
 </div>
 
 

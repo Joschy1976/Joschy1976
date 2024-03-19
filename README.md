@@ -62,7 +62,7 @@
     <!-- Express.js -->
     <img src="1686391647921.png" alt="Express.js" width="100"/>
     <!-- Python -->
-    <img src="Google-Cloud.gif alt="Google-Cloud" width="64"/>
+    <img src="Google-Cloud.png" alt="Google-Cloud" width="64"/>
 </div>
 
 

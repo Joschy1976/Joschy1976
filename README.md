@@ -17,7 +17,7 @@
     Sven() {
         aboutme["email"] = {"joschy0709@gmail.com"};
         aboutme["personal info"] = {"Sven", "Janorschke", "47", "Male"};
-        aboutme["portfolio"] = {"Coming soon"};
+        aboutme["portfolio"] = {"https://janorschkesven.de/"};
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
         }
     };

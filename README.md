@@ -15,9 +15,9 @@
     public:
     std::map<std::string, std::vector<std::string>> aboutme;
     Sven() {
-        aboutme["email"] = {"joschy0709@gmail.com"};
+        aboutme["email"] = {"info@codeakademie-janorschke.de"};
         aboutme["personal info"] = {"Sven", "Janorschke", "47", "Male"};
-        aboutme["portfolio"] = {"https://janorschkesven.de/"};
+        aboutme["portfolio demo"] = {"https://www.codeakademie-janorschke/build/"};
         aboutme["location"] = {"Germany", "Nordrhein-Westfalen"};
         }
     };
